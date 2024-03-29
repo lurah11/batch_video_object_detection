@@ -1,3 +1,7 @@
+# NOTE : SOME OF THE LINES IN THIS SCRIPT ARE SAMPLE PROVIDED BY AWS, HENCE I PROVIDE COPYRIGHT NOTE HERE
+# I ADD THE LOGIC TO MODIFIED THE JSON RESULTS AND STORE THEM IN .CSV FILES 
+# I ALSO ADD THE LOGIC TO PUT THE BOUNDING BOX INTO VIDEO USING OPENCV 
+
 ## Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # PDX-License-Identifier: MIT-0 (For details, see https://github.com/awsdocs/amazon-rekognition-developer-guide/blob/master/LICENSE-SAMPLECODE.)
 
